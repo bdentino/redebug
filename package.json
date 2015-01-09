@@ -13,7 +13,7 @@
   ],
   "author": "Brian Dentino <brian.dentino@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "debug": "2.1.1"
   },
   "main": "./redebug.js"
