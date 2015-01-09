@@ -1,0 +1,17 @@
+{
+  "name": "debug",
+  "repo": "bdentino/debug",
+  "description": "small debugging utility with runtime configurability",
+  "version": "2.1.1",
+  "keywords": [
+    "debug",
+    "log",
+    "debugger"
+  ],
+  "scripts": [
+    "redebug.js"
+  ],
+  "dependencies": {
+    "visionmedia/debug": "2.1.1"
+  }
+}
