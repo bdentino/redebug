@@ -1,6 +1,6 @@
 {
   "name": "debug",
-  "repo": "bdentino/debug",
+  "repo": "bdentino/redebug",
   "description": "small debugging utility with runtime configurability",
   "version": "2.1.1",
   "keywords": [
