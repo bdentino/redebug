@@ -1,4 +1,10 @@
 
+2.1.2 / 2015-01-16
+==================
+
+  * Merge pull request #1 from dfcreative/patch-1
+  * Make debug production dependency
+
 2.1.1 / 2015-01-09
 ==================
 
